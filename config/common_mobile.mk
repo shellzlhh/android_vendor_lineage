@@ -24,7 +24,6 @@ PRODUCT_PACKAGES += \
     ExactCalculator \
     Jelly \
     LockClock \
-    TrebuchetQuickStep \
     WeatherProvider
 
 # Exchange support
